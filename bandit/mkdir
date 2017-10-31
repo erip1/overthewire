@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#for ((i=1;i<=9;i+=1))
+for ((i=10;i<=19;i+=1))
+do
+mkdir bandit$i
+
+done
